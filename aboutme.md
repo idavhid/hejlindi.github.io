@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Meine Geschichte
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mein Name ist Lindi. Ich erstelle Aquarelle mit Liebe zum Detail.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Meine Geschichte
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Nach Jahren der privaten Erstellung von Aquarellen, habe ich im Jahr 2022 begonnen, einige Aquarelle als Print aufzuarbeiten und zu verkaufen.
